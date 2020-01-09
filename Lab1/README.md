@@ -1,10 +1,6 @@
 # Introduction to Android Studio
 This lab will introduce the Android Studio IDE and Android project structure through the creation of a simple 'Hello World!' application that will run on emulated or physical devices.
 
-#### Lab marking
-
-In order to get full marks for each lab you must 1.) attend the lab and work on the lab during the lab time, and 2.) show all deliverables to the instructor or TA before the end of lab (preferably), or while the instructor is taking attendance at the start of the next lab.
-
 
 #### Objectives
 * Familiarize IDE navigation

@@ -13,8 +13,12 @@ This lab will introduce the Android Studio IDE and Android project structure thr
 ###### 1. Open Android Studio
 * On the lab computers Android Studio is available under Linux, in a Windows VM (this is frustrating, and due to some technical limitations of Android Studio) Log in to Linux, then choose Applications → FCS VMs → Android Developer Studio VM, and then open AndroidStudio
 * → Start a new Android Studio Project
-* → Set Application name: Lab 1 Hello World
-* → Company Domain: ca.unb.mobiledev, click Next
+* → Select Empty Project
+* → Application Name: Lab 1 Hello World
+* → Package Name: ca.unb.mobiledev
+* → Language: Java
+* → Minimum API Level: API 21
+* → Click Next
 
 Take note of the Minimum SDK (Software Development Kit). This will be the SDK for which your apps will be compiled against. Android Studio will use this information to provide accurate auto-complete as well as provide warnings when your code is not appropriately targeting the set minimum SDK.
 
